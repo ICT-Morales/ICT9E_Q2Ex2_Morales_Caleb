@@ -1,0 +1,49 @@
+body{
+	font-family:Arial, sans-serif;
+	text-align: center;
+	margin: 50px;
+	background-image: url('league of legends.jpg');
+}
+
+
+#about {
+
+text-align: center;
+background-color:lightblue;
+color:black;
+
+padding: 20px;
+width:30%;
+font-style:italic;
+border:solid;
+border-color:black;
+
+
+}
+
+
+#Cast {
+
+text-align: center;
+background-color:seagreen;
+color:black;
+padding:20px;
+width: 50%;
+border:solid;
+border-color:black;
+font-style:italic;
+
+
+
+}
+div{
+
+margin-top: 10px;
+margin-bottom:10px;
+margin-left: auto;
+margin-right:auto;
+
+
+}
+
+
